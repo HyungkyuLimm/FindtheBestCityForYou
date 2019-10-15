@@ -1,4 +1,4 @@
-# Find the Best City For You
+# Find the Best City for You
 
 ### Table of Contents
 
