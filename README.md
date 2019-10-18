@@ -17,4 +17,4 @@ We wish to empower students with the data to help them narrow down which US city
 
 There are 1 notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-If you **cannot see** .ipynb file, copy the url of .ipynb file and please go to http://nbviewer.jupyter.org. You can see the file. Thank you :) 
+If you **cannot see** .ipynb file, copy the url of .ipynb file and please go to http://nbviewer.jupyter.org. Thank you :) 
